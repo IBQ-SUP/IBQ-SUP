@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello! 👋</h1>
-<h3 align="center">An Experienced Frontend | Backend | Blockchain Engineer</h3>
+![image](https://github.com/user-attachments/assets/b37c5099-1087-43b2-8582-68bbcd9d1f31)<h1 align="center">👋 Hello! 👋</h1>
+<h3 align="center">A Senior Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cryptogru812&label=Profile%20views&color=0e75b6&style=flat" alt="cryptogru812" /> </p>
 
@@ -7,13 +7,19 @@
 
 - 🌱 Major Experiences
 
-    • Web design and Frontend Develpment with React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS.
+    • Web design and Frontend Develpment: React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS
   
-    • Backend Development with Node.JS, Rust, GraphQL, Golang, Laravel, C#.
+    • Backend Development: C#, Node.JS, Rust, GraphQL, Golang, Laravel
 
-    • Blockchain Development (DePIN, DeFi, NFT, DApps, DEX, P2E and Smart Contract with Solidity, Rust, FunC, EVM, Solana, Ton, Polkadot and Cosmos SDK etc)
+    • Database: PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Prisma, TypeORM
 
-    • Bot Development (Trading Bot & Telegram Bot Development - Sniper Bot, Volume Bot, Signal Bot, Launch Bundling Bot)
+    • DevOps: CI/CD(Github, Gitlab, Bitbucket), AWS, Docker, Linux
+
+    • Web-based 2D/3D graphics: Three.js, Babylon.js, Phaser, Pixi.js, GSAP
+
+    • Blockchain Development: DePIN, DeFi, NFT, DApps, DEX, P2E and Smart Contract with Solidity, Rust and Cosmos SDK
+
+    • Bot Development: Telegram Bot & Trading Bot Development(Sniper Bot, Volume Bot, Signal Bot, Launch Bundling Bot)
   
 
 
