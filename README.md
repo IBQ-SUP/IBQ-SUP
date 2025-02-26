@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b37c5099-1087-43b2-8582-68bbcd9d1f31)<h1 align="center">👋 Hello! 👋</h1>
+<h1 align="center">👋 Hello! 👋</h1>
 <h3 align="center">A Senior Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cryptogru812&label=Profile%20views&color=0e75b6&style=flat" alt="cryptogru812" /> </p>
