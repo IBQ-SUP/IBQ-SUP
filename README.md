@@ -15,7 +15,7 @@
 
   • DevOps: CI/CD(Github, Gitlab, Bitbucket), AWS, Docker, Linux
 
-  • ML/AI Development: TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, OpenAI API, LangChain, Hugging Face Transformers, Pinecone
+  • ML/AI Development: TensorFlow, PyTorch, Fine-tuning, Pandas, NumPy, OpenAI API, LangChain, Hugging Face, Pinecone
 
   • Blockchain Development: DePIN, DeFi, NFT, DApps, DEX, P2E and Smart Contract with Solidity, Rust and Cosmos SDK
 
