@@ -32,8 +32,10 @@
 </p>
 
 <p align="center">
+  <img height="120" width="150" src="https://github.com/madara1793/madara1793/blob/main/left.png">
   <a href="https://wakatime.com/@madara1793"><img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=madara1793&langs_count=14&layout=compact&theme=gotham&range=all_time&hide_border=true" alt="@madara's wakatime stats" /></a>
+  <img height="120" width="150" src="https://github.com/madara1793/madara1793/blob/main/right.png">
 </p>
 
 <table align="center">
