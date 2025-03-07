@@ -33,12 +33,6 @@
   <a href="https://wakatime.com/@madara1793"><img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=madara1793&langs_count=14&layout=compact&theme=gotham&range=all_time&hide_border=true" alt="@madara's wakatime stats" /></a>
 </p>
-<br/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=stevejin88&&style=flat-square" align="center" />
-</div>
-
-<br>
 
 <table align="center">
   <tr>
