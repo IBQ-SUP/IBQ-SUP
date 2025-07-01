@@ -9,7 +9,7 @@
 
   • Web design and Frontend Develpment: React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS
 
-  • Backend Development: Node.JS, Rust, Elixir, Golang, Django, Flask, FastAPI, Express.JS, NestJS, Spring Boot, .NET
+  • Backend Development: Node.JS, Rust, Elixir, Golang, Python, Laravel, Express.JS, NestJS, Spring Boot, .NET
 
   • Database: PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Prisma, TypeORM
 
