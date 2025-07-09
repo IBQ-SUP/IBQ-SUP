@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img height="120" width="150" src="https://github.com/codezs17/codezs173/blob/main/left.png">
+  <img height="120" width="150" src="https://github.com/codezs17/codezs17/blob/main/left.png">
   <a href="https://wakatime.com/@codezs17"><img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=codezs17&langs_count=14&layout=compact&theme=gotham&range=all_time&hide_border=true" alt="@codezs's wakatime stats" /></a>
   <img height="120" width="150" src="https://github.com/codezs17/codezs17/blob/main/right.png">
