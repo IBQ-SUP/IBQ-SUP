@@ -7,7 +7,7 @@
 
 - 🌱 My Experiences
 
-  • Web design and Frontend Develpment: React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS
+  • Web design and Frontend Develpment: Next.JS, Vue.JS, Angular, Svelte, Typescript, React Native, Expo
 
   • Backend Development: Node.JS, Rust, Elixir, Golang, Python, Laravel, Express.JS, NestJS, Spring Boot, .NET
 
