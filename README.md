@@ -15,11 +15,11 @@
 
   • Trading System & Bot : Crypto Trading (Sniper, Volum, Arbitrage, Grid bots), Forex, Stock & Option Trading
 
-  • Database: PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Prisma, TypeORM
+  • Database : PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Prisma, TypeORM
 
-  • DevOps: CI/CD(Github, Gitlab, Bitbucket), AWS, Docker, Linux
+  • DevOps : CI/CD(Github, Gitlab, Bitbucket), AWS, Docker, Linux
 
-  • ML/AI Development: TensorFlow, PyTorch, Fine-tuning, Pandas, NumPy, OpenAI API, LangChain, Hugging Face, Pinecone
+  • AI/ML : TensorFlow, PyTorch, Fine-tuning, Pandas, NumPy, OpenAI API, LangChain, Hugging Face, Pinecone
 
 <br>
 
