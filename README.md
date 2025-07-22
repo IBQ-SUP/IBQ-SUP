@@ -7,19 +7,19 @@
 
 - 🌱 My Experiences
 
-  • Web & Mobile design and Frontend Develpment: Next.JS, Vue.JS, Angular, Svelte, Typescript, React Native, Expo
+  • Web & Mobile Design and Frontend : Next.JS, Vue.JS, Angular, Svelte, Typescript, React Native, Expo
 
-  • Backend Development: Node.JS, Rust, Elixir, Golang, Python, Laravel, Express.JS, NestJS, Spring Boot, .NET
+  • Backend : Node.JS, Rust, Elixir, Golang, Python, Laravel, Express.JS, NestJS, Spring Boot, .NET
+
+  • Blockchain : DePIN, DeFi, NFT, DApps, DEX, P2E and Smart Contract with Solidity, Rust and Cosmos SDK
+
+  • Trading System & Bot : Crypto Trading (Sniper, Volum, Arbitrage, Grid bots), Forex, Stock & Option Trading
 
   • Database: PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Prisma, TypeORM
 
   • DevOps: CI/CD(Github, Gitlab, Bitbucket), AWS, Docker, Linux
 
   • ML/AI Development: TensorFlow, PyTorch, Fine-tuning, Pandas, NumPy, OpenAI API, LangChain, Hugging Face, Pinecone
-
-  • Blockchain Development: DePIN, DeFi, NFT, DApps, DEX, P2E and Smart Contract with Solidity, Rust and Cosmos SDK
-
-  • Bot Development: Telegram Bot & Trading Bot Development(Sniper Bot, Volume Bot, Signal Bot, Launch Bundling Bot)
 
 <br>
 
