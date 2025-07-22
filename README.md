@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codezs17&label=Profile%20views&color=0e75b6&style=flat" alt="codezs17" /> </p>
 
-- 🌱 AI & Full stack | Blockchain DApps | Trading bots
+- 🌱 Full Stack & Blockchain | *AI & Algo* Multi-Assets Trading 
 
 - 🌱 My Experiences
 
