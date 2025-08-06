@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, 😀 I'm a Developer🚀</h1>
+<h1 align="center">Hey there, 😀 I'm a Versatile Developer🚀</h1>
 <h3 align="center">Full Stack & Blockchain Specialist | Trading</h3>
 
 <p align="center">
