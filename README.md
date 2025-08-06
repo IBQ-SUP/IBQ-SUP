@@ -42,8 +42,8 @@
 - Exploring AI/ML integration in decentralized systems
 - Contributing to open-source projects
 
-## 📫 Let's Connect
-[Your contact information or social media links]
+## 📫 Let's make a powerful thing together!
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IBQ-SUP&show_icons=true&theme=radical" alt="GitHub Stats" />
