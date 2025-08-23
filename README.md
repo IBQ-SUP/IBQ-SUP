@@ -12,3 +12,6 @@
 ### Trading Systems & Financial Technology
 - Algorithmic trading bots (crypto, forex, stocks, options, feature)
 - Arbitrage, Sniper, Flash loan, Volum, Copytrading and Grid strategies
+
+### AI Chatbots & Agents
+- Openai API, LLM, Langchain, Dify API, Deepseek API, n8n, make.com
