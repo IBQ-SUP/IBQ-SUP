@@ -2,7 +2,7 @@
 
 ### Full Stack Development
 - **Frontend**: Next.js, React, Vue.js, Svelte, TypeScript, Morden UI(HeroUI, MUI), TailwindCSS
-- **Backend**: Node.js, Rust, Elixir, Go, Python, Laravel, Express.js, NestJS, Spring Boot, .NET
+- **Backend**: Node.js, Rust, Spring Boot, Go, Python, Laravel, Express.js, NestJS, .NET
 - **Mobile**: React Native, Expo, Flutter (iOS & Android)
 
 ### Blockchain Development
