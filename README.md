@@ -1,8 +1,8 @@
 <h2 align="center">Full Stack & Blockchain Specialist | Trading</h2>
 
 ### Full Stack Development
-- **Frontend**: Next.js, React, Vue.js, Svelte, TypeScript, Morden UI(HeroUI, MUI), TailwindCSS
-- **Backend**: Node.js, Rust, Spring Boot, Go, Python, Laravel, Express.js, NestJS, .NET
+- **Frontend**: Next.js, React, Angular.js, TypeScript, Morden UI(HeroUI, MUI), TailwindCSS
+- **Backend**: Node.js, Rust, Spring Boot, Go, Python, Laravel, .NET
 - **Mobile**: React Native, Expo, Flutter (iOS & Android)
 
 ### Blockchain Development
