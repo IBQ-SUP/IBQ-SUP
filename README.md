@@ -1,4 +1,4 @@
-<h2 align="center">Full Stack & Blockchain Specialist | Trading</h2>
+<h2 align="center">AI & Full Stack Engineer | Trading</h2>
 
 ### Full Stack Development
 - **Frontend**: Next.js, React, Angular.js, TypeScript, Morden UI(HeroUI, MUI), TailwindCSS
