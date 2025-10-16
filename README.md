@@ -5,6 +5,10 @@
 - **Backend**: Node.js, Rust, Spring Boot, Go, Python, Laravel, .NET
 - **Mobile**: React Native, Expo, Flutter (iOS & Android)
 
+### AI / ML
+- HuggingFace, DeepLearning, TensorFlow, Fintuning.
+- Openai API, LLM, Langchain, Dify API, Deepseek API, n8n, make.com
+
 ### Blockchain Development
 - Smart Contracts (Solidity, Rust)
 - DeFi, NFT, DApps, DEX platforms
@@ -13,5 +17,4 @@
 - Algorithmic trading bots (crypto, forex, stocks, options, feature)
 - Arbitrage, Sniper, Flash loan, Volum, Copytrading and Grid strategies
 
-### AI Chatbots & Agents
-- Openai API, LLM, Langchain, Dify API, Deepseek API, n8n, make.com
+
