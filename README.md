@@ -4,7 +4,7 @@
 - **Frontend**: Next.js, React, Svelte, Solid.js
 - **Backend**: Node.js, Rust, Spring Boot, Go, Python
 - **Mobile**: React Native(Cli, Expo), Flutter
-- **Blockchain**: Smartcontract(SVM, EVM), DeFi, NFT, Dex
+- **Blockchain**: Smart Contracts(SVM, EVM), DeFi, NFT, Dex
 
 ### AI / ML
 - Openai API, LLM, Langchain, Dify API, Deepseek API, RAG
