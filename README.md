@@ -15,4 +15,4 @@
 - Arbitrage, Sniper, Flash loan, Volum, Copytrading and Grid strategies
 
 ### Automation
-- n8n, make.com, zapier
+- n8n
