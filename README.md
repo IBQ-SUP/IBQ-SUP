@@ -1,20 +1,18 @@
-<h2 align="center">Full Stack Engineer | Crypto | Trading</h2>
+<h2 align="center">Web2 & Web3 | AI | Trading</h2>
 
-### Full Stack Development
-- **Frontend**: Next.js, React, Angular.js, TypeScript, Morden UI(HeroUI, MUI), TailwindCSS
-- **Backend**: Node.js, Rust, Spring Boot, Go, Python, Laravel, .NET
-- **Mobile**: React Native, Expo, Flutter (iOS & Android)
-
-### Blockchain Development
-- Smart Contracts (Solidity, Rust)
-- DeFi, NFT, DApps, DEX platforms
+### WEB2 & WEB3
+- **Frontend**: Next.js, React, Svelte, Solid.js
+- **Backend**: Node.js, Rust, Spring Boot, Go, Python
+- **Mobile**: React Native(Cli, Expo), Flutter
+- **Blockchain**: Smartcontract(SVM, EVM), DeFi, NFT, Dex
 
 ### AI / ML
+- Openai API, LLM, Langchain, Dify API, Deepseek API, RAG
 - HuggingFace, DeepLearning, TensorFlow, Fintuning.
-- Openai API, LLM, Langchain, Dify API, Deepseek API, n8n, make.com
 
 ### Trading Systems & Financial Technology
 - Algorithmic trading bots (crypto, forex, stocks, options, feature)
 - Arbitrage, Sniper, Flash loan, Volum, Copytrading and Grid strategies
 
-
+### Automation
+- n8n, make.com, zapier
