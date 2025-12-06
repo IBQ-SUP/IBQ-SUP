@@ -7,8 +7,8 @@
 - **Blockchain**: Smart Contracts(SVM, EVM), DeFi, NFT, Dex
 
 ### AI / ML
-- Openai API, LLM, Langchain, Dify API, Deepseek API, RAG
-- HuggingFace, DeepLearning, TensorFlow, Fintuning.
+- LLMs, Langchain, LangGragh, RAG, VectorDB
+- AI Agent, Chatbot, AI SaaS
 
 ### Trading Systems & Financial Technology
 - Algorithmic trading bots (crypto, forex, stocks, options, feature)
