@@ -6,6 +6,10 @@
 - **Mobile**: React Native(Cli, Expo), Flutter
 - **Blockchain**: Smart Contracts(SVM, EVM), DeFi, NFT, Dex
 
+### AI / ML
+- LLMs, Langchain, LangGragh, RAG, VectorDB
+- AI Agent, Chatbot, AI SaaS
+
 ### Trading Systems & Financial Technology
 - Algorithmic trading bots (crypto, forex, stocks, options, feature)
 - Arbitrage, Sniper, Flash loan, Volum, Copytrading and Grid strategies
